@@ -1,0 +1,5 @@
+nome = input("Qual seu nome?")
+idade = int(input("Qual sua idade?"))
+cidade = input("Você mora em qual cidade?")
+hobby = input("Qual seu hobby?")
+print("Ola",nome, ",", "voce tem",idade, "anos e mora em",cidade, ".", "Ouvi dizer que voce adora", hobby, ",", "então te entregaremos uma faixa de gaza por voce ter feito esse login bombastico.")
