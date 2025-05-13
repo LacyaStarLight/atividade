@@ -37,14 +37,13 @@ elif operação_final == "divisão":
    print("A divisão é:", divisão)
 elif operação_final == "resto":
    print("O resto é:", resto)
-
-if operação_final == "potência":
+elif operação_final == "potência":
    print("A potencia é:", potencia)
+else:
+    print("escreve direito seu porra.")
 
 
 if b == 0:
     print("essa operação não é possivel")
-else:
-    print("essa operação foi concluida")
     
 print("obrigado por usar nosso site, bombom. Volte sempre")
