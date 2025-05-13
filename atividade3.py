@@ -37,7 +37,7 @@ elif operação_final == "divisão":
    print("A divisão é:", divisão)
 elif operação_final == "resto":
    print("O resto é:", resto)
-elif operação_final == "potência":
+elif operação_final == "potência" or "potencia":
    print("A potencia é:", potencia)
 else:
     print("escreve direito seu porra.")
